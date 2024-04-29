@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.image {
+  width: 100%;
+}
+.para {
+  font-size: 15px;
+  font-family: 'Open Sans';
+}
+.card {
+  width: 45%;
+  flex-shrink: 0;
+}
